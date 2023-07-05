@@ -22,7 +22,7 @@
 
     * For Example:
     ```bash
-    cd A:\AI_Sudoku-master
+    cd A:\AI-Sudoku-Solver-master
     ```
 5. Install the required packages by typing:
    ```bash
